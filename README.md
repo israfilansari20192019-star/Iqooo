@@ -32,3 +32,4 @@ fgnfc
 ch be FB
 ch be gm na
 CB na gm hmm
+do be FB FB
